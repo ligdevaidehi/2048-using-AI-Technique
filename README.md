@@ -26,7 +26,7 @@ The AI player will be based on a simple heuristic approach, likely using a searc
 To compile and run the game:
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/2048-ai-c.git
+   git clone https://github.com/ligdevaidehi/2048-using-AI-Technique.git
    
 2. Navigate to the project directory:
    cd 2048-ai-c
